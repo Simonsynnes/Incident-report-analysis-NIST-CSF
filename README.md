@@ -27,6 +27,3 @@ As a cybersecurity analyst, you are tasked with using this security event to cre
 * **Respond** to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 * **Recover** affected systems to normal operation and restore systems data and/or assets that have been affected by an incident.
-
-# Incident report analysis  
-# Incident-report-analysis-NIST-CSF
